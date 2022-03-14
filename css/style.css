@@ -69,12 +69,8 @@ ul{
 }
 
 footer{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-
-.footertitle{
-    font-size: 15px;
+    margin-top: 5px;
+    margin-left: 5px;
 }
 
 .immagine{
@@ -91,4 +87,10 @@ footer{
 .due{
     background-image: url(../img/graph.jpg);
     background-size: cover;
+}
+
+h4{
+    padding: 10px;
+    font-size: 20px;
+    color: white;
 }
