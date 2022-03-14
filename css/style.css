@@ -23,3 +23,7 @@ a{
 #data{
     font-size: 15px;
 }
+
+h3,#data{
+    color: grey;
+}
