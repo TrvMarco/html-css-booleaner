@@ -51,10 +51,6 @@ body{
     background-color: aqua;
 }
 
-.row{
-    height: 50px;
-}
-
 td{
     width: 12,5%;
 }
@@ -66,4 +62,33 @@ td{
 table{
     border-collapse: collapse;
     text-align: left;
+}
+
+ul{
+    padding-left: 15px;
+}
+
+footer{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.footertitle{
+    font-size: 15px;
+}
+
+.immagine{
+    width: 250px;
+    height: 200px;
+    margin: 10px
+}
+
+.uno{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+}
+
+.due{
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
 }
