@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.intestazione{
+    height: 170px;
+    background-image: url(../img/pattern.png);
+    background-color: #007fff;
+}
+
+#logo{
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+a{
+    color:#007fff;
+    text-decoration: none;
+}
+
+#data{
+    font-size: 15px;
+}
