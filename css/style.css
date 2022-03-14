@@ -15,7 +15,7 @@ a{
     text-decoration: none;
 }
 
-#data{
+#data,#descrizioni{
     font-size: 12px;
     margin-top: 0;
 }
@@ -40,4 +40,13 @@ body{
 
 .evidenziatore{
     background-color: yellow;
+}
+
+.headtab{
+    background-color: #007fff;
+    color: white;
+}
+
+.bluerow{
+    background-color: aqua;
 }
