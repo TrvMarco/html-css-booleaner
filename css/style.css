@@ -76,7 +76,7 @@ footer{
 .immagine{
     width: 250px;
     height: 200px;
-    margin: 10px
+    margin: 5px
 }
 
 .uno{
@@ -90,6 +90,7 @@ footer{
 }
 
 h4{
+    margin-top: 5px;
     padding: 10px;
     font-size: 20px;
     color: white;
