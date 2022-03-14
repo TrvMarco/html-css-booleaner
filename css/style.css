@@ -50,3 +50,20 @@ body{
 .bluerow{
     background-color: aqua;
 }
+
+.row{
+    height: 40px;
+}
+
+td{
+    width: 12,5%;
+}
+
+.longrow{
+    width: 50%;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
