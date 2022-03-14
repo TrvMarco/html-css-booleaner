@@ -1,8 +1,3 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
 .intestazione{
     height: 170px;
     background-image: url(../img/pattern.png);
@@ -26,4 +21,14 @@ a{
 
 h3,#data{
     color: grey;
+}
+
+main{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
 }
